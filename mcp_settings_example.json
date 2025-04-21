@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "hatch": {
+      "command": "node",
+      "args": ["E:/mcp-servers/hatch/dist/index.js"],
+      "env": {
+        "HATCH_API_KEY": "your_api_key_here"
+      },
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}
