@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/meerkats-ai-hatch-mcp-server-badge.png)](https://mseep.ai/app/meerkats-ai-hatch-mcp-server)
+
 # Hatch MCP Server
 
 This is a Model Context Protocol (MCP) server for Hatch API integration. It provides tools for finding emails, phone numbers, verifying emails, finding company data, and getting LinkedIn URLs.
